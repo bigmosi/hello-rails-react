@@ -15,7 +15,7 @@ To setup and install this sample ROR Blog project, follow the below steps:
 - Clone this project by the command: 
 
 ```
-$ git clone https://github.com/teckim/hello-rails-react
+$ git clone https://github.com/bigmosi/hello-rails-react
 ```
 
 - Then switch to the project folder by the bellow query:
@@ -45,14 +45,14 @@ $ cd hello-rails-react
 
 👤 **Hakim**
 
-- GitHub: [@teckim](https://github.com/teckim)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hakim-bhd/)
+- GitHub: [@bigmosi](https://github.com/bigmsoi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kinyera-amos/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/teckim/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/bigmosi/hello-rails-react/issues).
 
 ## Show your support
 
